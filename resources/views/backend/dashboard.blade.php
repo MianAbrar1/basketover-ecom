@@ -9,7 +9,6 @@
         </div>
     </div>
 @endif
-
 @can('admin_dashboard')
 <div class="row gutters-10">
     <div class="col-lg-6">
